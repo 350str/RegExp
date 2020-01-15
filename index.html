@@ -20,10 +20,10 @@
                 <h3>Форма регистрации</h3>
                 <fieldset class="form__fieldset">
                     <div class="form__field">
-                        <input class="form__input" type="text" title="hgdghdfgjdhgkd" name="name" pattern="^[А-Я][а-яё]+\-?[А-Я]?[а-яё]*$" placeholder="Имя" required />
+                        <input class="form__input" type="text" title="hgdghdfgjdhgkd" name="name" pattern="^([А-Я][а-яё]+)|([А-Я][а-яё]+-[А-Я][а-яё]+)" placeholder="Имя" required />
                     </div>
                     <div class="form__field">
-                        <input class="form__input" type="email" name="name" pattern="^\w+\@\w+\.\w+$" placeholder="E-Mail" />
+                        <input class="form__input" type="email" name="name" pattern="^[\w-]+@[A-z0-9-]+\.[A-z]{2,4}" placeholder="E-Mail" required />
                         <span class="form__error">e-mail в формате: sega@yandex.ru</span>
                     </div>
                     <div class="form__field">
