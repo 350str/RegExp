@@ -1,4 +1,8 @@
-# [RegExp v.0.1.0](http://www.350str.github.io) 
+# [RegExp v.0.1.1](http://www.350str.github.io)  
+
+bug fixed
+
+# RegExp v.0.1.0
 
 Добавлена валидация для всех полей  
 bug fixed
