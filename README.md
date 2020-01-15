@@ -1,4 +1,9 @@
-# [RegExp v.0.0.1](http://www.350str.github.io) 
+# [RegExp v.0.1.0](http://www.350str.github.io) 
+
+Добавлена валидация для всех полей  
+bug fixed
+
+# RegExp v.0.0.1
 
 Валидация форм через регулярные выражения без использования JavaScript  
 
