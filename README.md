@@ -1,4 +1,8 @@
-# [RegExp v.0.1.2](http://www.350str.github.io)  
+# [RegExp v.0.1.3](http://www.350str.github.io)  
+
+added .gitignore
+
+# RegExp v.0.1.2 
 
 bug fixed   
 
