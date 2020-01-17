@@ -1,4 +1,4 @@
-# [RegExp v.0.1.3](http://www.350str.github.io)  
+# [RegExp v.0.1.3](https://350str.github.io)  
 
 added .gitignore
 
